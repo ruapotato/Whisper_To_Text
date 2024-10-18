@@ -1,2 +1,2 @@
 # Whisper_To_Text
-Use Whisper and a hardware button to do ASR (Demo)
+A simple demo. Video [here](https://youtu.be/R5bfClvmmqc)
